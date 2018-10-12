@@ -1,0 +1,16 @@
+/sparkbuild/.idea
+project
+compiler.xml
+hydra.xml
+misc.xml
+modules.xml
+sbt.xml
+scala_compiler.xml
+uiDesigner.xml
+workspace.xml
+libraries
+modules
+target
+/sparkdemo/*.iml
+.idea
+sparkdemo.iml
